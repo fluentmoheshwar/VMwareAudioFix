@@ -11,4 +11,4 @@ copy /y "%~dp0\VMwareAudioFix.vbox" "%USERPROFILE%\VirtualBox VMs\VMwareAudioFix
 vboxmanage registervm "%USERPROFILE%\VirtualBox VMs\VMwareAudioFix\VMwareAudioFix.vbox"
 echo Starting VMwareAudioFix...
 echo You can also start manually later from VirtualBox. Make sure to headless start.
-VBoxHeadless.exe -s VMAudioBack -start-paused
+VBoxHeadless.exe -s VMwareAudioFix -start-paused
