@@ -11,6 +11,6 @@ Eliminate VMware sound distortion that occurs when:
 
 1. Install VMware Tools on Guest OS
 1. Install [Sound Blaster Driver](https://dl.malwarewatch.org/drivers/SoundBlasterPCI98.zip) on Guest OS if you're using Windows 98
-1. [Download VirtualBox](https://www.virtualbox.org/)
+1. Download and Install [VirtualBox](https://www.virtualbox.org/)
 1. Click on the code button and download zip.
 1. Extract the archive then double click on install.bat and follow the instructions.
